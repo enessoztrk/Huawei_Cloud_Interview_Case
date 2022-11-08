@@ -3,7 +3,7 @@
 ## Case: Communicate VPCs Each Other
 ### You are expected to set up a network structure by using HUAWEI CLOUD’s basic services. This application will consist of VPC, VPC-Peering, ECS and RDS. This guide provides high level instructions to complete your DEMO case.
 
-#### Step 1. Create three VPCs with different IP pool.
+- Step 1. Create three VPCs with different IP pool.
 
 #### Step 2. Create a Secuirty Group and allow this security group for every incoming request.
 
