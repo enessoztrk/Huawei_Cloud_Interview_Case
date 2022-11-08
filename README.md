@@ -1,6 +1,6 @@
 # Huawei Cloud Project
 
-## Case: Communicate VPCs Each Other
+## Case: Communicate VPCs Each Other☁️
 ### You are expected to set up a network structure by using HUAWEI CLOUD’s basic services. This application will consist of VPC, VPC-Peering, ECS and RDS. This guide provides high level instructions to complete your DEMO case.
 
 - Step 1. Create three VPCs with different IP pool.
@@ -19,7 +19,7 @@
 
 - Step 8. Use “Remote Login” for ECS’ and try to ping other ECS and RDS again.
 ##
-##  So let's start
+##  So Let's Start🌸
 
 ### 1. First, let's set up Vpc with 3 different CID addresses
 
