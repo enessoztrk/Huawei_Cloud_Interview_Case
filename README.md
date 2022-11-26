@@ -1,4 +1,4 @@
-# Huawei Cloud Project
+# Huawei Cloud Interview Case 
 
 ## Case: Communicate VPCs Each Other☁️
 ### You are expected to set up a network structure by using HUAWEI CLOUD’s basic services. This application will consist of VPC, VPC-Peering, ECS and RDS. This guide provides high level instructions to complete your DEMO case.
